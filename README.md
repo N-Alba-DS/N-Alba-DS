@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nahuel 
+## Hi there 👋 
 
 I'm a data enthusiast with a background in law, currently expanding my expertise in data science and machine learning. My journey into the world of data began in early 2023, starting the transition from a legal career to a passion for data analysis. Here’s a bit about my journey and what I’m working on:
 
