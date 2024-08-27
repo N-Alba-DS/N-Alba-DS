@@ -14,4 +14,4 @@ I'm a data enthusiast with a background in law, currently expanding my expertise
 -  **Ask me about:** Data mining techniques, machine learning algorithms, and how legal principles can be integrated into data science projects.
 -  **How to reach me:** You can find me on [LinkedIn]([https://www.linkedin.com/in/nahuel-alba-8556a5323/]).
 https://www.linkedin.com/in/nahuel-alba-8556a5323/
-- **Endeavours** I’m fascinated by how data can tell stories and reveal patterns that are not immediately visible, and I’m passionate about bridging the gap between law and data science to ensure ethical and compliant data practices.
+- **Endeavours**: I’m fascinated by how data can tell stories and reveal patterns that are not immediately visible, and I’m passionate about bridging the gap between law and data science to ensure ethical and compliant data practices.
