@@ -6,7 +6,7 @@ I'm a data enthusiast with a background in law, currently expanding my expertise
   - Projects involving data mining, machine learning, and statistical analysis.
   
 - **Learning:** 
-  - Advanced techniques in machine learning, data mining in economics and finance, and statistical approaches to learning algorithms.
+  - Advanced techniques in machine learning, data mining in economics and finance, and statistical approaches to problem-solving.
   
 - **Education:**
   - Currently attending the University of Buenos Aires' Master's in Data Mining and Knowledge Discovery.
