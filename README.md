@@ -6,7 +6,7 @@ I'm a data enthusiast with a background in law, currently expanding my expertise
 -  **Learning:** Advanced techniques in machine learning, data mining in economics and finance, and statistical approaches to learning algorithms.
 -  **Education:**
   - Currently, attending to University of Buenos Aires' Master's in Data Mining and Knowledge Discovery.
-  - Courses on Probability and Statistics, Databases (SQL), Algorithms (Python), Data Mining, Intelligent Data Analysis, and more.
+  - Courses on Probability and Statistics, Databases (SQL), Algorithms (Python), Data Mining, Intelligent Data Analysis, Tableau, Power BI and more.
 -  **Legal Background:** 
   - Degree in Law, with additional certifications in Intellectual Property, Data Ethics, Data Compliance, and Data Governance.
   - I bring a unique perspective to data science, combining my legal expertise with data-driven insights.
